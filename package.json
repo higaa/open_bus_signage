@@ -1,0 +1,27 @@
+{
+  "name": "open-bus-signage",
+  "version": "0.0.1",
+  "description": "デジタルバスサイネージ",
+  "scripts": {
+    "preprocess": ".venv/bin/python src/python/preprocess_gtfs.py -c config/gtfs_config.json",
+    "build": "node scripts/build.js",
+    "serve:src": "cd src/web && python3 -m http.server 8080",
+    "serve:dist": "cd dist && python3 -m http.server 8080",
+    "start": "npm run preprocess && npm run build && npm run serve:dist"
+  },
+  "keywords": [
+    "gtfs",
+    "bus",
+    "signage",
+    "digital-signage",
+    "transport"
+  ],
+  "author": "Kenichi Higashide",
+  "license": "MIT",
+  "dependencies": {
+    "jszip": "^3.10.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

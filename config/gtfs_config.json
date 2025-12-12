@@ -1,0 +1,17 @@
+{
+  "gtfs_files": {
+    "etchutetsudo": "gtfs_files/etchutetsudo.zip",
+    "tomitomishi": "gtfs_files/tomitomishi.zip"
+  },
+  "platform": {
+    "1": [
+        ["etchutetsudo", "101_01"],
+        ["tomitomishi", "12_01"]
+    ],
+    "2": [
+        ["etchutetsudo", "101_02"]
+    ]
+  },
+  "date_change_hour": 2,
+  "output_file": "output/signage_data.json"
+}

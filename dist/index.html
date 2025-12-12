@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!--
+  Copyright (c) 2025 Kenichi Higashide
+  Licensed under the MIT License. See LICENSE file in the project root for full license text.
+-->
+<html lang="ja"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>まいどはやバス富山駅前 発車案内</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>富富駅前バス発車案内</h1>
+            <p>Tomitomi Station Bus Departures</p>
+            <div class="current-time" id="currentTime" style="background: none; padding: 0px;">14:45:12</div>
+        </header>
+        
+        <main class="main-content">
+            <div class="platform platform-1">
+                <div class="platform-header">
+                    <div class="platform-number">
+                        <div class="platform-number-en">Platform No</div>
+                        <div class="platform-number-body">1</div>
+                        <div class="platform-number-ja">のりば</div>
+                    </div>
+                    <div class="platform-info">
+                        <h2>市役所前・笹塚方面</h2>
+                        <p>For City Office, Sasazuka</p>
+                    </div>
+                </div>
+                <div class="bus-list" id="platform_1">
+                    <div class="loading">データを読み込み中...</div>
+                </div>
+            </div>
+            
+            <div class="platform platform-2">
+                <div class="platform-header">
+                    <div class="platform-number">
+                        <div class="platform-number-en">Platform No</div>
+                        <div class="platform-number-body">2</div>
+                        <div class="platform-number-ja">のりば</div>
+                    </div>
+                    <div class="platform-info">
+                        <h2>七福・大杉方面</h2>
+                        <p>For Shichifuku, Osugi</p>
+                    </div>
+                </div>
+                <div class="bus-list" id="platform_2">
+                    <div class="loading">データを読み込み中...</div>
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <script src="js/signage-data-loader.js"></script>
+    <script src="js/signage-app.js"></script>
+
+
+</body></html>

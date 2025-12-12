@@ -1,0 +1,3929 @@
+{
+  "departure_info": {
+    "1": [
+      {
+        "departure_time": 32400.0,
+        "route_name": "31 大野沢線",
+        "route_name_en": "31 Onosawa Line",
+        "route_color": "4F6228",
+        "route_text_color": "FFFFFF",
+        "headsign": "笹塚秋山温泉",
+        "headsign_en": "Sasazuka Akiyama Onsen",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 36000.0,
+        "route_name": "31 大野沢線",
+        "route_name_en": "31 Onosawa Line",
+        "route_color": "4F6228",
+        "route_text_color": "FFFFFF",
+        "headsign": "笹塚秋山温泉",
+        "headsign_en": "Sasazuka Akiyama Onsen",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 39600.0,
+        "route_name": "31 大野沢線",
+        "route_name_en": "31 Onosawa Line",
+        "route_color": "4F6228",
+        "route_text_color": "FFFFFF",
+        "headsign": "笹塚秋山温泉",
+        "headsign_en": "Sasazuka Akiyama Onsen",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 43200.0,
+        "route_name": "31 大野沢線",
+        "route_name_en": "31 Onosawa Line",
+        "route_color": "4F6228",
+        "route_text_color": "FFFFFF",
+        "headsign": "笹塚秋山温泉",
+        "headsign_en": "Sasazuka Akiyama Onsen",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 46800.0,
+        "route_name": "31 大野沢線",
+        "route_name_en": "31 Onosawa Line",
+        "route_color": "4F6228",
+        "route_text_color": "FFFFFF",
+        "headsign": "笹塚秋山温泉",
+        "headsign_en": "Sasazuka Akiyama Onsen",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 50400.0,
+        "route_name": "31 大野沢線",
+        "route_name_en": "31 Onosawa Line",
+        "route_color": "4F6228",
+        "route_text_color": "FFFFFF",
+        "headsign": "笹塚秋山温泉",
+        "headsign_en": "Sasazuka Akiyama Onsen",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 54000.0,
+        "route_name": "31 大野沢線",
+        "route_name_en": "31 Onosawa Line",
+        "route_color": "4F6228",
+        "route_text_color": "FFFFFF",
+        "headsign": "笹塚秋山温泉",
+        "headsign_en": "Sasazuka Akiyama Onsen",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 57600.0,
+        "route_name": "31 大野沢線",
+        "route_name_en": "31 Onosawa Line",
+        "route_color": "4F6228",
+        "route_text_color": "FFFFFF",
+        "headsign": "笹塚秋山温泉",
+        "headsign_en": "Sasazuka Akiyama Onsen",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 61200.0,
+        "route_name": "31 大野沢線",
+        "route_name_en": "31 Onosawa Line",
+        "route_color": "4F6228",
+        "route_text_color": "FFFFFF",
+        "headsign": "笹塚秋山温泉",
+        "headsign_en": "Sasazuka Akiyama Onsen",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 64800.0,
+        "route_name": "31 大野沢線",
+        "route_name_en": "31 Onosawa Line",
+        "route_color": "4F6228",
+        "route_text_color": "FFFFFF",
+        "headsign": "笹塚秋山温泉",
+        "headsign_en": "Sasazuka Akiyama Onsen",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 68400.0,
+        "route_name": "31 大野沢線",
+        "route_name_en": "31 Onosawa Line",
+        "route_color": "4F6228",
+        "route_text_color": "FFFFFF",
+        "headsign": "笹塚秋山温泉",
+        "headsign_en": "Sasazuka Akiyama Onsen",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 72000.0,
+        "route_name": "31 大野沢線",
+        "route_name_en": "31 Onosawa Line",
+        "route_color": "4F6228",
+        "route_text_color": "FFFFFF",
+        "headsign": "笹塚秋山温泉",
+        "headsign_en": "Sasazuka Akiyama Onsen",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 75600.0,
+        "route_name": "31 大野沢線",
+        "route_name_en": "31 Onosawa Line",
+        "route_color": "4F6228",
+        "route_text_color": "FFFFFF",
+        "headsign": "笹塚秋山温泉",
+        "headsign_en": "Sasazuka Akiyama Onsen",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 79200.0,
+        "route_name": "31 大野沢線",
+        "route_name_en": "31 Onosawa Line",
+        "route_color": "4F6228",
+        "route_text_color": "FFFFFF",
+        "headsign": "笹塚秋山温泉",
+        "headsign_en": "Sasazuka Akiyama Onsen",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 82800.0,
+        "route_name": "31 大野沢線",
+        "route_name_en": "31 Onosawa Line",
+        "route_color": "4F6228",
+        "route_text_color": "FFFFFF",
+        "headsign": "笹塚秋山温泉",
+        "headsign_en": "Sasazuka Akiyama Onsen",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 86400.0,
+        "route_name": "31 大野沢線",
+        "route_name_en": "31 Onosawa Line",
+        "route_color": "4F6228",
+        "route_text_color": "FFFFFF",
+        "headsign": "笹塚秋山温泉",
+        "headsign_en": "Sasazuka Akiyama Onsen",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 33600.0,
+        "route_name": "A 市民バス中央循環",
+        "route_name_en": "A Munibus Central Loop",
+        "route_color": "C00000",
+        "route_text_color": "FFFFFF",
+        "headsign": "市役所・中央通り方面",
+        "headsign_en": "City Office, Chuo Street",
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 40800.0,
+        "route_name": "A 市民バス中央循環",
+        "route_name_en": "A Munibus Central Loop",
+        "route_color": "C00000",
+        "route_text_color": "FFFFFF",
+        "headsign": "市役所・中央通り方面",
+        "headsign_en": "City Office, Chuo Street",
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 48000.0,
+        "route_name": "A 市民バス中央循環",
+        "route_name_en": "A Munibus Central Loop",
+        "route_color": "C00000",
+        "route_text_color": "FFFFFF",
+        "headsign": "市役所・中央通り方面",
+        "headsign_en": "City Office, Chuo Street",
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 55200.0,
+        "route_name": "A 市民バス中央循環",
+        "route_name_en": "A Munibus Central Loop",
+        "route_color": "C00000",
+        "route_text_color": "FFFFFF",
+        "headsign": "市役所・中央通り方面",
+        "headsign_en": "City Office, Chuo Street",
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 62400.0,
+        "route_name": "A 市民バス中央循環",
+        "route_name_en": "A Munibus Central Loop",
+        "route_color": "C00000",
+        "route_text_color": "FFFFFF",
+        "headsign": "市役所・中央通り方面",
+        "headsign_en": "City Office, Chuo Street",
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2": [
+      {
+        "departure_time": 34200.0,
+        "route_name": "10 呉山線",
+        "route_name_en": "10 Kureyama Line",
+        "route_color": "FCD5B4",
+        "route_text_color": "000000",
+        "headsign": "大杉駅前",
+        "headsign_en": "Osugi Station",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 37800.0,
+        "route_name": "10 呉山線",
+        "route_name_en": "10 Kureyama Line",
+        "route_color": "FCD5B4",
+        "route_text_color": "000000",
+        "headsign": "大杉駅前",
+        "headsign_en": "Osugi Station",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "departure_time": 41400.0,
+        "route_name": "10 呉山線",
+        "route_name_en": "10 Kureyama Line",
+        "route_color": "FCD5B4",
+        "route_text_color": "000000",
+        "headsign": "大杉駅前",
+        "headsign_en": "Osugi Station",
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      }
+    ]
+  },
+  "calendar": {
+    "2025-12-13": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-14": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-15": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-16": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-17": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-18": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-19": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-20": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-21": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-22": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-23": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-24": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-25": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-26": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-27": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-28": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-29": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-30": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2025-12-31": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-01": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-02": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-03": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-04": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-05": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-06": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-07": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-08": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-09": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-10": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-11": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-12": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-13": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-14": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-15": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-16": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-17": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-18": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-19": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-20": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-21": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-22": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-23": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-24": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-25": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-26": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-27": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-28": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-29": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-30": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-01-31": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-01": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-02": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-03": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-04": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-05": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-06": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-07": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-08": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-09": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-10": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-11": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-12": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-13": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-14": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-15": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-16": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-17": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-18": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-19": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-20": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-21": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-22": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-23": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-24": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-25": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-26": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-27": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-02-28": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-01": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-02": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-03": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-04": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-05": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-06": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-07": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-08": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-09": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-10": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-11": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-12": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-13": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-14": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-15": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-16": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-17": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-18": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-19": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-20": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-21": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-22": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-23": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-24": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-25": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-26": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-27": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-28": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-29": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-30": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-03-31": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-01": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-02": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-03": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-04": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-05": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-06": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-07": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-08": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-09": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-10": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-11": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-12": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-13": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-14": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-15": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-16": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-17": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-18": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-19": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-20": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-21": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-22": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-23": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-24": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-25": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-26": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-27": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-28": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-29": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-04-30": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-01": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-02": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-03": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-04": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-05": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-06": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-07": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-08": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-09": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-10": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-11": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-12": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-13": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-14": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-15": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-16": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-17": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-18": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-19": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-20": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-21": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-22": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-23": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-24": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-25": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-26": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-27": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-28": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-29": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-30": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-05-31": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-01": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-02": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-03": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-04": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-05": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-06": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-07": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-08": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-09": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-10": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-11": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-12": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-13": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-14": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-15": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-16": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-17": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-18": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-19": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-20": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-21": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-22": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-23": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-24": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-25": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-26": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-27": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-28": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-29": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-06-30": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-01": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-02": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-03": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-04": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-05": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-06": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-07": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-08": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-09": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-10": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-11": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-12": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-13": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-14": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-15": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-16": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-17": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-18": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-19": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-20": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-21": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-22": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-23": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-24": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-25": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-26": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-27": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-28": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-29": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-30": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-07-31": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-01": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-02": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-03": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-04": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-05": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-06": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-07": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-08": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-10": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-11": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-12": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-13": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-14": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-15": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-16": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-17": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-18": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-19": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-20": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-21": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-22": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-23": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-24": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-25": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-26": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-27": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-28": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-29": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-30": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-08-31": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-01": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-02": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-03": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-04": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-05": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-06": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-07": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-08": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-09": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-10": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-11": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-12": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-13": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-14": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-15": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-16": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-17": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-18": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-19": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-20": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-21": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-22": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-23": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-24": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-25": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-26": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-27": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-28": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-29": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-09-30": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-01": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-02": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-03": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-04": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-05": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-06": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-07": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-08": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-09": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-10": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-11": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-12": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-13": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-14": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-15": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-16": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-17": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-18": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-19": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-20": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-21": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-22": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-23": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-24": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-25": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-26": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-27": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-28": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-29": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-30": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-10-31": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-01": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-02": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-03": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-04": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-05": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-06": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-07": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-08": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-09": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-10": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-11": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-12": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-13": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-14": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-15": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-16": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-17": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-18": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-19": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-20": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-21": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-22": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-23": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-24": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-25": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-26": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-27": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-28": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-29": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-11-30": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-12-01": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-12-02": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-12-03": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-12-04": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-12-05": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-12-06": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-12-07": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-12-08": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-12-09": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-12-10": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-12-11": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ],
+    "2026-12-12": [
+      {
+        "gtfs_id": "etchutetsudo",
+        "service_id": "全日"
+      },
+      {
+        "gtfs_id": "tomitomishi",
+        "service_id": "全日"
+      }
+    ]
+  },
+  "gtfs_id": [
+    "etchutetsudo",
+    "tomitomishi"
+  ],
+  "date_change_hour": 2
+}

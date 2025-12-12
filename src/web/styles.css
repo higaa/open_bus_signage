@@ -1,0 +1,383 @@
+/* Copyright (c) 2025 Kenichi Higashide
+   Licensed under the MIT License. See LICENSE file in the project root for full license text.
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 19px;
+}
+
+body {
+    font-family: 'Yu Gothic', 'Meiryo', 'MS Gothic', 'Hiragino Kaku Gothic ProN', sans-serif;
+    background: #f8f5f1;
+    height: 100vh;
+    overflow: hidden;
+    color: #333;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 100%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f8f5f1;
+    padding: 15px 40px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    border: 2px solid #d4c4a8;
+}
+
+.header h1 {
+    font-size: 2.2rem;
+    color: #5d4e37;
+    font-weight: bold;
+    text-align: left;
+    margin-right: 20px;
+}
+
+.header p {
+    font-size: 1.4rem;
+    color: #8b7355;
+    margin-top: auto;
+    margin-bottom: 4px;
+    margin-right: 20px;
+    text-align: left;
+}
+
+.current-time {
+    font-size: 2rem;
+    color: #8b7355;
+    font-weight: bold;
+    font-family: 'Courier New', monospace;
+    text-align: right;
+    margin-left: auto;
+}
+
+.main-content {
+    display: flex;
+    gap: 20px;
+    flex: 1;
+    height: calc(100vh - 180px);
+}
+
+.platform {
+    flex: 1;
+    background: #fefcf8;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    border: 2px solid #d4c4a8;
+    display: flex;
+    flex-direction: column;
+}
+
+.platform-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    border-bottom: none;
+}
+
+.platform-1 .platform-header {
+    background: rgb(17, 142, 28);
+    color: #ffffff;
+}
+
+.platform-2 .platform-header {
+    background: rgb(31, 80, 139);
+    color: #ffffff;
+}
+
+.platform-number {
+    width: 110px;
+    height: auto;
+    border-right: 3px solid #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 28px;
+    padding-right: 13px;
+}
+
+
+
+.platform-number .platform-number-en {
+    display: flex;
+    justify-content: center;
+    font-size: 0.8rem;
+    margin-bottom: 1px;
+
+}
+
+.platform-number .platform-number-body {
+    font-size: 2.5rem;
+    font-weight: bold;
+    line-height: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.platform-number .platform-number-ja {
+    display: flex;
+    justify-content: center;
+    font-size: 0.9rem;
+    margin-top: 1px;
+}
+
+
+.platform-info h2 {
+    font-size: 1.8rem;
+    margin-bottom: 5px;
+    color: #ffffff;
+}
+
+.platform-info p {
+    font-size: 1.2rem;
+    color: #ffffff;
+}
+
+.bus-list {
+    overflow: hidden;
+    display: grid;
+    grid-template-rows: repeat(5, 1fr);
+    gap: 10px;
+    height: 100%;
+    width: 100%;
+}
+
+.departure-item {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 2px;
+    align-items: center;
+    padding: 15px;
+    border-radius: 8px;
+    background: #faf8f4;
+    border: 1px solid #e8dcc6;
+    transition: all 0.3s;
+    min-height: 0;
+}
+
+.departure-item:nth-child(n+6) {
+    display: none;
+}
+
+.departure-time {
+    font-size: 2.2rem;
+    font-weight: bold;
+    color: #5d4e37;
+    font-family: 'Courier New', monospace;
+    justify-self: start;
+}
+
+.departure-info {
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    gap: 20px;
+    align-items: start;
+}
+
+.route-info {
+    display: grid;
+    grid-template-rows: 3fr 2fr;
+    align-items: baseline;
+    gap: 7px;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 10px 12px;
+    overflow: hidden;
+}
+
+.destination-info {
+    display: grid;
+    grid-template-rows: 3fr 2fr;
+    align-items: baseline;
+    gap: 7px;
+    padding: 7px 0;
+    overflow: hidden;
+}
+
+/* テキストコンテナのスタイル */
+.scrollable-container {
+    width: auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.scrollable-text {
+    white-space: nowrap;
+    display: inline-block;
+    /* animation: scroll-text 15s linear infinite; */
+}
+
+.route-name-ja {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 3px;
+    white-space: nowrap;
+    display: block;
+    width: 100%;
+}
+
+
+.destination-ja {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-bottom: 3px;
+    white-space: nowrap;
+    display: block;
+    width: 100%;
+}
+
+.route-name-en {
+    font-size: 0.9rem;
+    margin-bottom: 0;
+    white-space: nowrap;
+    display: block;
+    width: 100%;
+}
+
+.destination-en {
+    font-size: 1rem;
+    margin-bottom: 0;
+    white-space: nowrap;
+    display: block;
+    width: 100%;
+}
+
+.route-name-ja.scrolling,
+.route-name-en.scrolling,
+.destination-ja.scrolling,
+.destination-en.scrolling {
+    animation: scroll-text 8s linear infinite;
+    width: max-content !important;
+}
+
+
+@keyframes scroll-text {
+    0% {
+        transform: translateX(0);
+    }
+    25% {
+        transform: translateX(0);
+    }
+    75% {
+        transform: translateX(var(--scroll-distance));
+    }
+    100% {
+        transform: translateX(var(--scroll-distance));
+    }
+}
+
+
+.no-departures {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+    font-size: 1.2rem;
+    color: #8b7355;
+}
+
+
+.footer {
+    margin-top: 10px;
+    text-align: center;
+    color: #8b7355;
+    font-size: 0.9rem;
+}
+
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    font-size: 1.2rem;
+    color: #8b7355;
+}
+
+.no-data {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    font-size: 1.2rem;
+    color: #a0956b;
+}
+
+/* レスポンシブ対応 */
+@media (max-height: 1000px) {
+    .bus-list {
+        grid-template-rows: repeat(4, 1fr);
+    }
+    .departure-item:nth-child(n+5) {
+        display: none;
+    }
+
+}
+@media (max-height: 860px) {
+    .bus-list {
+        grid-template-rows: repeat(3, 1fr);
+    }
+    .departure-item:nth-child(n+4) {
+        display: none;
+    }  
+}
+@media (max-height: 720px) {
+    .bus-list {
+        grid-template-rows: repeat(2, 1fr);
+    }
+    .departure-item:nth-child(n+3) {
+        display: none;
+    }  
+}
+
+@media (max-width: 1200px) {
+    .header h1 {
+        font-size: 1.8rem;
+    }
+    
+    .current-time {
+        font-size: 1.6rem;
+    }
+    
+    .departure-time {
+        font-size: 2rem;
+    }
+    
+    .route-name {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .main-content {
+        flex-direction: column;
+    }
+    
+    .platform {
+        height: auto;
+        min-height: 300px;
+    }
+}
